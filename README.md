@@ -1,22 +1,5 @@
 # tn
-metadata
-library_name: segmentation-models-pytorch
-tags:
-  - semantic-segmentation
-  - vision
-  - ecology
-datasets:
-  - restor/tcd
-pipeline_tag: image-segmentation
-widget:
-  - src: samples/610160855a90f10006fd303e_10_00418.tif
-    example_title: Urban scene
-license: cc
-metrics:
-  - accuracy
-  - f1
-  - iou
-@@ -1,68 +1,68 @@
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -27,8 +10,7 @@ metrics:
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante do Ensino Médio, trabalho como jovem aprendiz e estou sempre atualizando os meu conhecimentos by: Tn.
 
 #
 
